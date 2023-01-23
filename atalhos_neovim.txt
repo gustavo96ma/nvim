@@ -1,0 +1,11 @@
+=->a->p identa tudo 
+V->Y->p copia e cola linha inteira 
+f->e vai pra próxima ocorrência de "e" na linha
+r->t replace a letra atual por t
+ctrl+a procura um numero a partir da posicao atual na linha e incrementa ele
+space->u
+space->p->e navegação 
+ctrl+z pausa nvim e volta pro navegador
+fg volta pra onde tava no nvim
+:%s (aplica pro arquivo todo) /palavra/outrapalavra - substitui todas as ocorrências de palavra por outrapalavra no arquivo
+space->ps abre o grep internamente no nvim
